@@ -12,4 +12,4 @@ Busco oportunidades de colaboración y aprendizaje en el campo de la tecnología
 Si tenes dudas o sugerencias, no dudes en ponerte en contacto conmigo.
 
 - [Email](gimena.bugiolachio@gmail.com) 📧 gimena.bugiolachio@gmail.com
-- [LinkedIn](https:/https://www.linkedin.com/in/gimenabugiolachio/) 💼
+- [LinkedIn](https:/https://www.linkedin.com/in/gimenabugiolachio//) 💼
