@@ -1,16 +1,15 @@
-### Hi there 👋
+# ⚡ ¡Bienvenidos a mi perfil de GitHub! ⚡️
 
-<!--
-**gimenabugiolachio/gimenabugiolachio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, mi nombre es Gimena y soy estudiante de la Licenciatura en Tecnologías de la Información. En mi tiempo libre me gusta crear y mejorar proyectos personales para seguir aprendiendo y perfeccionar mis habilidades.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mi
+Actualmente estoy estudiandoLicenciatura en Tecnologías de la Información en UNPAZ y realizando un Bootcamp de DevOps.
+Estoy interesada en aprender más sobre programación y tecnología.
+Busco oportunidades de colaboración y aprendizaje en el campo de la tecnología.
+
+## Contacto
+Si tenes dudas o sugerencias, no dudes en ponerte en contacto conmigo.
+
+- [Email](gimena.bugiolachio@gmail.com) 📧 gimena.bugiolachio@gmail.com
+- [LinkedIn](https:/https://www.linkedin.com/in/gimenabugiolachio/) 💼
